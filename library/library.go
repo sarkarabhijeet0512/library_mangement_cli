@@ -64,7 +64,7 @@ func (l *Library) ListBooksByGenre(genre string) error {
 			fmt.Println(book)
 		}
 	} else {
-		return fmt.Errorf("No books found in genre '%s'\n", genre)
+		return fmt.Errorf("no books found in genre '%s'", genre)
 	}
 	return nil
 }
