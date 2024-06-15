@@ -13,7 +13,7 @@ cmd :
 
 ## Run the Program
 
-cmd :  `./library_mangement`
+cmd :  `./library-manager`
 Interactive Menu
 ### output: 
 #### Add a new Book:
